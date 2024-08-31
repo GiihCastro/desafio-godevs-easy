@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.desafio-container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.desafio-container h2 {
+    margin-bottom: 10px;
+}
+
+textarea,
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#sortedOutput, 
+#nameOutput, 
+#checkOutput, 
+#factorialOutput, 
+#pairsOutput, 
+#coinOutput, 
+#idValidationResult, 
+#licenseOutput {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #e7f3e7;
+    border-radius: 4px;
+    border: 1px solid #c3e6c3;
+}
