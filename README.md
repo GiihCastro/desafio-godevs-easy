@@ -1,5 +1,7 @@
 # Série de Desafios de Programação
 
+[![Demonstração](arquivos/demo.png)]
+
 Bem-vindo à série de desafios de programação! Esta coleção de desafios foi projetada para ajudar a aprimorar suas habilidades de codificação com problemas variados e interessantes. Cada desafio oferece uma oportunidade para praticar e aprender novas técnicas, e é ideal para desenvolvedores iniciantes e intermediários.
 
 ## Introdução
